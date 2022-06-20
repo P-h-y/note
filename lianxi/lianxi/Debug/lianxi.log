@@ -1,0 +1,3 @@
+﻿  lianxi.cpp
+c:\users\29607\source\repos\lianxi\lianxi\lianxi.cpp(408): warning C4715: “binary_search2”: 不是所有的控件路径都返回值
+  lianxi.vcxproj -> C:\Users\29607\source\repos\lianxi\Debug\lianxi.exe
